@@ -14,11 +14,11 @@ function divide(a,b) {
   return a / b;
 }
 
-function increment(a) {
+function inc(a) {
   return a ++;
 }
 
-function decrement(a) {
+function dec(a) {
   return a --
 }
 
