@@ -18,9 +18,12 @@ function inc(a) {
   return a+=1;
 }
 
-function makeint()
 
 function dec(a) {
-  return a-=1
+  return a-=1;
+}
+
+function makeInt(a) {
+  return parseInt('a' , 10);
 }
 
